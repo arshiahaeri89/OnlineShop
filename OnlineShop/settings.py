@@ -27,15 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
-ADMINS = [('Arshia Haeri-Mehrizi', 'haeri.arshia@gmail.com')]
-SERVER_EMAIL = 'haeri.arshia@gmail.com'
-EMAIL_HOST_USER = 'haeri.arshia@gmail.com'
-EMAIL_HOST_PASSWORD = 'crubioxiratlbqsb'
-EMAIL_SUBJECT_PREFIX = '[Django: OnlineShop] '
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 465
-EMAIL_USE_SSL = True
-
 # Application definition
 
 INSTALLED_APPS = [
